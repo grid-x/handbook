@@ -2,7 +2,6 @@
 
 We value results, transparency, sharing, freedom, efficiency, frugality, collaboration, directness, kindness, diversity, boring solutions, and quirkiness:  
 
-
 1. **Results**
    We care about what you achieve; the code you shipped, the user you made happy, and the team member you helped. Do not compete by proclaiming how many hours you worked yesterday because we don't want someone who took the afternoon off to feel like they did something wrong. Instead, celebrate the achievements of yourself and your teammates. We want people to have the desire to ship.
 
@@ -34,6 +33,3 @@ We value results, transparency, sharing, freedom, efficiency, frugality, collabo
 
 9. **Quirkiness**
    Unexpected and unconventional things make life more interesting. Celebrate and encourage quirky gifts, habits, behavior, and points of view. Open source is a great way to interact with interesting people. We try to hire people who think work is a great way to express themselves.
-
-
-
