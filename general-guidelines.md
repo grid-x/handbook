@@ -1,4 +1,4 @@
-# General Guidelines
+# General Guidelines {#guidelines}
 
 1. Working at gridX is cooperating with the most talented people you've ever worked with, being the most productive you'll ever be, and creating software that is helping the most people you've ever reached.
 2. We recognize that inspiration is perishable, so if you’re enthusiastic about something that generates great results in relatively little time feel free to work on that.
