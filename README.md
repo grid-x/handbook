@@ -1,10 +1,8 @@
-# My Awesome Book
+# Engineering Handbook
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-
+The GitLab team handbook is the central repository for how we run the company. As part of our dedication to being as open and transparent as possible, the handbook is open to the world, and we welcome feedback.
 
 
 
-TEST
+.
 
